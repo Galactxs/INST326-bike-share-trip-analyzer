@@ -1,0 +1,14 @@
+Union Station,2026-03-01 08:10,Campus Center,2026-03-01 08:23
+Campus Center,2026-03-01 22:29,Kendall Ave,2026-03-01 22:02
+Campus Union,2026-03-02 07:05,Union Station,2026-03-02 07:21
+Kendall Ave,2026-03-01 11:30,Gateway,2026-03-01 11:30
+ 
+Union Station,not a time,Campus Center,2026-03-01 08:23
+   
+ Union Station , 2026-03-02 09:00 , Gateway , 2026-03-02 09:34 
+Gateway,2026-03-02 12:15,Campus Union,2026-03-02 12:27
+Campus Center,2026-03-03 17:45,Union Station,2026-03-03 18:19
+Kendall Ave,2026-03-03 06:50,Campus Center,2026-03-03 07:02
+Union Station,2026-03-03 13:00,Kendall Ave,2026-03-03 13:08
+Campus Union,2026-03-04 15:20,Gateway,2026-03-04 15:20
+Gateway,2026-03-04 19:05,Union Station,2026-03-04 19:39
